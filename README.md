@@ -1,2 +1,2 @@
 # website
-Website for Ivy
+Marketing website for Ivy
